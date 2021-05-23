@@ -155,7 +155,8 @@ def start(bot: Bot, update: Update, args: List[str]):
             update.effective_message.reply_photo(NESRI_IMG,PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
 
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
-                    [[InlineKeyboardButton(text="GROUP", url="https://t.me/ssm_chat) ,
+                                        [[InlineKeyboardButton(text="Channel", url="https://t.me/ssm_chat"),  InlineKeyboardButton(text="Group", url="https://t.me/ssm_links") ]]))
+
                      
 
     else:
