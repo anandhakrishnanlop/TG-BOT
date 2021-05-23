@@ -25,8 +25,8 @@ NESRI_IMG = "https://telegra.ph/file/da3cc3f6c857ef60aab08.jpg"
 
 PM_START_TEXT = """
 
-Hello👋 {}, my name is {}! I am maintained by [THIS LEGEND](tg://user?id={}) I am a Pro admin bot. 
-As usual I am now with less updates.But soon new feautures will come soon. My new updates will be updated on my updates channel and if you have any doubts about me join my support group and ask their about my queries you have.. 
+ഹായ്👋 {}, ഞാൻ {}! ഞാൻ ഒരു ഗ്രൂപ്പ് മാനേജർ ബോട്ട് ആണ്, എൻ്റെ വിധി  എൻ്റെ  [അഡ്മിൻ്റെ](tg://user?id={}) തീരുമാനങ്ങളാണ്, 
+പക്ഷേ വെറുതെ സമയം കളയണ്ട എന്നെ സെവൻ സ്ക്രീൻ മൂവീസ് ഗ്രൂപ്പിൽ മാത്രമേ ഉപയോഗിക്കാൻ കഴിയൂ.........😎🤭
 
 
 
