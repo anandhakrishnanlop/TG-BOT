@@ -34,7 +34,7 @@ THIS BOT IS BOT BASED ON [KOCHUBOT](https://github.com/jithumon/tgbot). AND ALL 
 
 ### DEPLOY HERE TO HEROKKU
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/JINN-OF-TG/TG-BOT) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/anandhakrishnanlop/TG-BOT) 
 
  
 ### SPECIAL CREDIT GOES HERE FOR THEIR CODES 
