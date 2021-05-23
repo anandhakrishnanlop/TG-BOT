@@ -56,15 +56,8 @@ Master head bot.
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-DONATE_STRING = """Hey you glad to think to donate!
-
-Kindly my Devoleper had tried a lot to make me. As a well mind for donating me \
-
-Thanks for your mind to donate as per click here first [My creator](http://t.me/SonOfLars) \
-
-Don't think that he is a rich he is a poor man from a poor family.. 
-[MONZO](http://monzo.me/PAULNIONVESTERGAARDLARSEN) OR [PAYPAL](http://paypal.me/PAULSONOFLARS) 
-Thanks for using me and thanks for your good for donation.
+DONATE_STRING = """HEY GLAD TO THINK TO DONATE TO MY CREATOR THERE IS ONLY ONE WAY TO PAY HIM [PAY NOW](https://t.me/JINN_OF_TG) ❣️❣️.
+MASTER HEAD BOT = @Mothirajinn_bot CAN BE SEEN ON TELEGRAM... 
 """
 
 IMPORTED = {}
