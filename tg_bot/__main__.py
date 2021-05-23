@@ -155,10 +155,7 @@ def start(bot: Bot, update: Update, args: List[str]):
             update.effective_message.reply_photo(NESRI_IMG,PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
 
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
-                    [[InlineKeyboardButton(text="🕹️SUMMON ME🕹️", url="t.me/{}?startgroup=true".format(bot.username))],
-                     [InlineKeyboardButton(text="❤️UPDATES❤️", url="https://t.me/NAZRIYANAZEEM_BETA"), InlineKeyboardButton(text="❤️SUPPORT❤️", url="https://t.me/NAZRIYANAZEEMBETA")],
-                     [InlineKeyboardButton(text="❣️SOURCE CODE❣️", url="https://github.com/JINN-OF-TG/TG-BOT")], 
-                     [InlineKeyboardButton(text="❣️DEPLOY A BOT LIKE ME CLICK HERE❣️", url="https://youtu.be/q92-LTGwn9k")]]))
+                    [[InlineKeyboardButton(text="GROUP", url="https://t.me/ssm_chat) ,
                      
 
     else:
